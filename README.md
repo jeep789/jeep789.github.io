@@ -56,14 +56,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  * 移除需联网的创意云文档和库所有功能本地化
 
   系统要求
- Windows 10 1803 (OS build 17134) 或更高版64位
+ * Windows 10 1803 (OS build 17134) 或更高版64位
 
   下载地址
- https://pan.baidu.com/s/17mnkLJ66PlEWicR2ECtGNA
- https://cloud.189.cn/t/NjQrQn7JNZ7j#d3ag 访问码d3ag
+ * https://pan.baidu.com/s/17mnkLJ66PlEWicR2ECtGNA
+ * https://cloud.189.cn/t/NjQrQn7JNZ7j#d3ag 访问码d3ag
 
   留言邮箱：llllll202020@outlook.com
- 转自网络，如有侵权请联系
-
- 1.TOC
- {:toc}
+  转自网络，如有侵权请联系
