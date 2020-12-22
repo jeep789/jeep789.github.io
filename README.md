@@ -83,7 +83,7 @@ helpx.adobe.com/cn/photoshop/using/whats-new.html
 如果启动提示“ 加载ippcvm7.dll库错误”，说明你的CPU不兼容2021，详情参阅
 helpx.adobe.com/photoshop/kb/known-issues.html#ErroratloadingofippCVlibrary
 
-下载地址
+* 下载地址
 Adobe Photoshop 2021 v22.1.0.94 x64 中文免激活绿色精简版
 Adobe Photoshop 2020 v21.2.4.323 x64 中文免激活绿色精简版
 Adobe Photoshop CC 2019 v20.0.10.28848 x64 中文免激活绿色精简版
@@ -100,3 +100,5 @@ Nik Collection v1.2.11 免费版（谷歌增强滤镜套件图像后期处理调
 https://dl.google.com/edgedl/photos/nikcollection-full-1.2.11.exe
 Photoshop扩展插件包（他人收集打包的各种PS插件，插件堪称全网最全）
 https://pan.lanzous.com/b0f1t2h6b
+
+留言邮箱：llllll202020@outlook.com
