@@ -10,8 +10,8 @@
  2020年12月更新 XD2021 2020年12月版（35.3）
  helpx.adobe.com/cn/xd/kb/fixed-issues.html
  helpx.adobe.com/cn/xd/user-guide.html/cn/xd/help/whats-new.ug.html
- Adobe XD免费但一次只能共享一个原型和规范
- 特别版，对于保存文件的数量和功能，则无限制
+ Adobe XD免费版一次只能共享一个原型和规范
+ 该特别版对于保存文件的数量和功能，则无限制
 
   此版特点
  * 用的官方版改装，免激活，多语言完整版
