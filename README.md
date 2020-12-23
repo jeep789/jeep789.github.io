@@ -90,6 +90,7 @@ Adobe Photoshop CC 2019 v20.0.10.28848 x64 中文免激活绿色精简版
 Adobe Photoshop CS3 v10.0 绿色精简版经典怀旧版 , 实用体积小速度快
 https://malahu-my.sharepoint.com/:u:/g/personal/only72_malahu_tk/EXEeO1zesxNBsTmulyhR6y8Bitbuu_ZHRCh-uD2fIscV3w?e=9YACFh
 https://cloud.189.cn/t/reaU73RvQji2
+*感谢网友提供天翼云下载地址
 
 Adobe Camera Raw 13.1.0 官方增效工具（摄影师必备工具用来编辑RAW文件的）
 官方页面helpx.adobe.com/cn/camera-raw/kb/camera-raw-plug-in-installer.html
@@ -102,3 +103,24 @@ Photoshop扩展插件包（他人收集打包的各种PS插件，插件堪称全
 https://pan.lanzous.com/b0f1t2h6b
 
 留言邮箱：llllll202020@outlook.com
+
+### 专业绘图工具软件 Autodesk AutoCAD 2021 Win中文
+
+2020-12-23 分类：软件/Autodesk
+
+* 软件简介
+AutoCAD（Autodesk Computer Aided Design）是Autodesk（欧特克）公司首次于1982年开发的自动计算机辅助设计软件，用于二维绘图、详细绘制、设计文档和基本三维设计，现已经成为国际上广为流行的绘图工具。AutoCAD具有良好的用户界面，通过交互菜单或命令行方式便可以进行各种操作。它的多文档设计环境，让非计算机专业人员也能很快地学会使用。在不断实践的过程中更好地掌握它的各种应用和开发技巧，从而不断提高工作效率。AutoCAD具有广泛的适应性，它可以在各种操作系统支持的微型计算机和工作站上运行。
+
+* 软件下载
+https://malahu-my.sharepoint.com/:u:/g/personal/only72_malahu_tk/EUQXfDhcnitGm1j7QEB3WxABMYVCrkyEouDz2bP_JB7RIQ?e=8vXCLc
+
+* 补丁下载
+https://malahu-my.sharepoint.com/:u:/g/personal/only72_malahu_tk/EcpLgTNgObZKv23wgqazx08B9Jno7mJRgpk94KjS0Rp3Gg?e=nli80T
+
+安装方法：
+
+1.安装软件（如需密钥请输入：001L1）
+
+2.安装软件后，复制acad.exe到软件安装目录下替换原文件完成已注册
+
+3.完成安装，打开软件使用。
