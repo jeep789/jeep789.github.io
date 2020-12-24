@@ -28,7 +28,6 @@
   留言邮箱：llllll202020@outlook.com
   转自网络，如有侵权请联系
   
-  
   ### Adobe Photoshop 2021 22.1.0 绿色精简版
 
 2020-12-22    分类：Adobe 
@@ -40,7 +39,7 @@ helpx.adobe.com/photoshop/kb/fixed-issues.html#photoshop-desktop-fixed-issues
 helpx.adobe.com/cn/photoshop/kb/fixed-issues.html#photoshop-desktop-fixed-issues
 Adobe Photoshop 2021 版本于2020年11月正式上线！
 新增：一键抠图替换天空、神经网络AI滤镜等系列功能
-Adobe产品自2020年6月版开始，更换了全新图标和LOGO。。。
+Adobe产品自2020年6月版开始，更换了全新图标和LOGO。
 Adobe Photoshop 2020 版本于2019年10月正式上线，同时推出Photoshop Elements（即PS简化版）主打人工智能，让你一键P图，基于Adobe Sensei AI的强大功能，新增系列一键式照片效果和照片编辑工具。
 Adobe Photoshop 桌面版新增功能
 helpx.adobe.com/cn/photoshop/using/whats-new.html
@@ -70,7 +69,7 @@ helpx.adobe.com/cn/photoshop/using/whats-new.html
 关于 Photoshop 2021 神经网络智能滤镜（Neural Filters）功能须知：
 * 要求登陆账户，在线下载滤镜才能用，部分AI滤镜还处于Beta版本阶段
 * 目前所有特别版AI滤镜功能，可能因为云验证都存在一定几率闪退现象
-### 如果菜单->滤镜->Neural Filters 是灰色的，请点击帮助->登陆账户！
+* 如果菜单->滤镜->Neural Filters 是灰色的，请点击帮助->登陆账户！
 
 系统要求
 2021 -> Windows 10 x64
@@ -124,3 +123,35 @@ https://malahu-my.sharepoint.com/:u:/g/personal/only72_malahu_tk/EcpLgTNgObZKv23
 2.安装软件后，复制acad.exe到软件安装目录下替换原文件完成已注册
 
 3.完成安装，打开软件使用。
+
+### Adobe Photoshop Express 7.2.763 高级版
+
+2020-12-24   分类：软件
+
+Adobe Photoshop Express是一款照片编辑和拼贴画制作软件工具，可以在移动设备上进行快速的编辑。拥有 60 多种外观以及降噪和除雾等校正功能。
+
+* 软件功能
+- 基础功能：裁剪、修齐、旋转和翻转照片。移除红眼和宠物眼。
+　　- 自动修复：一键调整对比度、曝光量和白平衡。
+　　- 去除瑕疵：单击一下即可移除照片中的污点、脏物和蒙尘。
+　　- 校正：滑动控件以调整清晰度、对比度、曝光度、高光、阴影、黑色、白色、色温、色调、锐化、饱和度和亮丽度。 
+　　- 滤镜或外观：共有 80 多种预设滤镜可供选择。可以控制外观强度以获得丰富的照片效果。
+　　- 水印图像：在图像上添加自定义文字或图形水印。
+　　- 自定义：创建并保存自己的外观。
+　　- 照片相框：提供 15 种以上边框和相框。若要让外观更加协调匀称，可选择与图像颜色搭配的边框颜色。
+　　- 支持原始照片：以原始格式导入并编辑照片。
+　　- 分享：即使分享所有社交站点。
+　　- 水印图像：在图像上添加自定义文字或图形水印。
+　　- 调整图像大小：使用此选项调整图像大小并保存。
+　　- JPEG 质量输出 - 自定义输出图像的质量和尺寸。 
+  
+Photoshop Express 支持以下文件格式： – 照片：JPG/JPEG、PNG – 原始文件：arw (SONY)、cr2 (CANON)、crw (CANON)、dng、erf (EPSON)、raf (FUJI)、3fr & fff (HASSELBLAD)、dcr (KODAK)、mrw (KONICA)、mos (LEAF)、rwl (LEICA)、nef & nrw (NIKON)、orf (OLYMPUS)、rw2 (PANASONIC)、pef (PENTAX)、srw (SAMSUNG)、支持绝大多数相机制造商最新相机型号的 RAW 文件。
+
+此版特点
+* 解锁高级功能, 免登陆Adobe账户
+* 禁止应用收集分析数据与崩溃报告
+* 禁用且删除不必要的权限及服务项
+
+* 下载地址
+
+https://wws.lanzous.com/idl5Njn9y1g  密码：83yb
