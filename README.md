@@ -125,6 +125,7 @@ https://malahu-my.sharepoint.com/:u:/g/personal/only72_malahu_tk/EcpLgTNgObZKv23
 3.完成安装，打开软件使用。
 
 留言邮箱：llllll202020@outlook.com
+
 ### Adobe Photoshop Express 7.2.763 高级版
 
 2020-12-24   分类：软件
@@ -168,7 +169,7 @@ AdGuard，最受欢迎的广告拦截程序，堪称去广告大杀器。Adguard
 Adguard – Block Ads Without Root
 adguard.com/zh_cn/versions/android/release.html
 
-2020.12.15 v3.6 正式版
+2020.12.15 v4.0.9 正式版
 * 支持观看YouTube视频应用内无广告及DNS-over-QUIC协议
 * [增强]阻止了观看YouTube的广告，详情见更新日志步骤演示
 打开YouTube应用，然后开始播放您要观看的视频。
