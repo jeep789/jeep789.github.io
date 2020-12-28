@@ -71,7 +71,7 @@ helpx.adobe.com/cn/photoshop/using/whats-new.html
 * 目前所有特别版AI滤镜功能，可能因为云验证都存在一定几率闪退现象
 * 如果菜单->滤镜->Neural Filters 是灰色的，请点击帮助->登陆账户！
 
-系统要求
+* 系统要求
 2021 -> Windows 10 x64
 ﹂官方要求Windows 10 1803 (OS build 17134) 或更高版
 ﹂系统低于1803版本，点主屏幕新建文档，会提示错误异常
@@ -271,5 +271,40 @@ http://www.lanzous.com/i3s7yqd
 http://www.lanzous.com/i45av4j
 
 作者邮箱:healer_007@foxmail.com
+
+留言邮箱：llllll202020@outlook.com
+
+### Internet Download Manager 
+2020-12-28  分类:电脑软件/下载工具
+
+Internet Download Manager，全球最佳下载利器。Internet Download Manager (简称IDM) 是一款Windows 平台功能强大的多线程下载工具，在国外非常受欢迎。
+支持断点续传，支持嗅探视频音频，接管所有浏览器，具有站点抓取、批量下载队列、计划任务下载，自动识别文件名、静默下载、网盘下载支持等功能。
+
+* 新版特性
+
+internetdownloadmanager.com/news.html
+2020.12.25 6.38 Build 16
+* 新增几种新视频流文件类型下载支持
+* 例行修复错误
+
+此版特点
+* 反汇编处理，免注册激活，无假冒序列号弹窗
+  参考TheHidden2000或者直接用的yaschir补丁
+* 用官方安装参数绿化处理，卸载可选备份选项设置
+* 调整简体中文语言，补译新增未翻译简体中文字串
+* 去除每日提示弹窗、杜绝程序检查升级，无升级提示弹窗
+* 调整下载对话框按钮和边框，适配Win10（现在无需修改）
+* 预调配置：启用中文, 取消自动开机启动, 首次运行不自动打开官网
+* 去无用帮助菜单项，去关于窗口无用按钮，删除帮助文档多国语言
+静默安装参数：/ai /gm2（绝对路径=D:\）
+静默安装自定义位置：/ai /gm2 /InstallPath=“指定的路径”
+例如：软件包.exe /ai /gm2 /InstallPath=“D:\MyProgram”、
+• 常规运行=安装版（含开始菜单快捷方式和程序卸载项的快捷方式）
+• 右键解压=绿色版（本身不支持便携化的软件需手动运行绿化处理）
+
+下载地址
+Internet Download Manager v6.38.16.2 修订中文绿色特别版
+https://wws.lanzous.com/b01nvih2d 
+密码:4g6i
 
 留言邮箱：llllll202020@outlook.com
