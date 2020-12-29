@@ -308,3 +308,38 @@ https://wws.lanzous.com/b01nvih2d
 密码:4g6i
 
 留言邮箱：llllll202020@outlook.com
+
+DAEMON Tools Ultra
+2020-12-29 分类:电脑软件
+
+DAEMON Tools Ultra，专业映像制作软件，虚拟光驱工具，这款映像处理工具，加载大型镜像文件非常快！支持创建/编辑/刻录/提取，数据映像、音频映像、加密光盘、虚拟硬盘、虚拟光盘、内存磁盘、VHD、USB引导盘、ISCSI介质、虚拟设备装载等功能，支持创建和加载读取各种虚拟光驱的映像文件类型格式。
+
+* 新版特性
+daemon-tools.cc/chn/releasenotes/dtultra
+
+2020.12.25 v5.9.0
+* Stream movies from PC to Android TV
+* Use Ultra with screen-reading apps
+* Burn TOAST images to discs
+* Navigate the app using the keyboard only
+* Switch to Contrast scheme in GUI
+* Minor bugs
+
+2020.05.23 v5.8.0.1409
+小幅更新改进修复
+
+Daemon Tools Ultra 5.8.0
+- 编辑和转换Linux可启动镜像
+- 在MBR + BIOS模式下为Linux创建可引导USB启动
+- 在本地网络连接中尝试使用Catch改善文件传输！
+- 选择要捕获的网络！ 适用于Android的背景模式
+- 使用Catch浏览远程设备！ 适用于iOS平台
+
+* 运行要求
+NetFramework 4.7.2，Windows 7 或更高版
+
+* 下载地址
+https://wws.lanzous.com/b01nvm2vg 
+密码:ggx6
+
+留言邮箱：llllll202020@outlook.com
