@@ -343,3 +343,71 @@ https://wws.lanzous.com/b01nvm2vg
 密码:ggx6
 
 留言邮箱：llllll202020@outlook.com
+
+### WPS Office 2019 v11.8.2.9067 专业增强版
+2020-12-30  分类:电脑软件/Office
+
+WPS Office 2019 专业增强版最新安装包，集成序列号，终身授权激活。WPS Office是国产免费办公软件套件，全面涵盖了文字处理、电子表格，演示文稿、PDF以及云服务等功能。
+WPS2019办公套件，体积轻巧、内存占用低、运行速度快、强大插件平台支持、免费提供海量在线存储空间及文档模板、全面支持PDF、兼容所有主流Office格式，支持所有平台，支持跨设备云同步，成为一站式的免费和高级版的办公套件。
+
+新版变化
+
+WPS Office 个人版和专业版/专业增强版有什么区别？
+1、授权方面：个人版供个人免费使用，不可商业用途；专业版则可以。
+2、功能方面：个人版无开发工具（VBA环境、宏功能）专业增强版最全。
+3、体验方面：个人版（即免费基础版）有广告；专业版/专业增强版则无。
+专业增强版功能最完整，相比专业版具备完整VBA组件，VBA宏功能更全！
+
+================================
+2020年10月 WPS Office (11.8.2.9067) 新增功能列表
+================================
+改进功能列表
+————
+WPS表格
+1，新增PRICEMAT财务函数
+2，优化XIRR函数计算方法
+3，优化有效性序列的扩展
+WPS文字
+1，支持表格属性的API
+2，修正Selection.Information(wdActiveEndSectionNumber)在页眉页脚时的行为
+WPS演示
+1，新增webm格式视频插入
+2，支持占位符AutoShapeType的API
+WPS公共
+1，支持多用户使用网盘
+2，优化ole对象激活流程
+
+* 此版特点
+* 用官方专业版安装包+VBA组件重新打包，即专业增强版
+* 免激活，内置序列号，自定义安装配置文件启用内部参数
+* 配置文件加入序列号：694BF-YUDBG-EAR69-BPRGB-ATQXH
+* 去登陆中心、去WPS云服务和云盘、去WPS秀堂H5、WPS便签
+
+安装文件描述：
+﹂oem.ini（安装配置文件定制参数）
+├—SourceDir=oeminfo ;读取oem安装
+├—Sn=xxxxxxxxxxxxxxxxx ;激活序列号
+├—Support2016SN=true ;支持2016版序列号
+├—XiuTang=false ;这个是不显示WPS秀堂H5
+├—WeiboPlugin=false ;貌似是不启用微博插件
+├—EnableAccount=false ;不显示账户登陆中心
+├—EnableCloudDocs=false ;不显示WPS云文档
+├—IntranetDrive=true ;不显示我的电脑WPS云盘
+├—IntranetVersion=true ;不显示WPS便签启用内部企业版
+├—EnterpriseDocpermission=true ;启用企业高级版特权的
+├—EnablePlainWatermarkInfo=false ;不显示文件打印水印
+﹂VBA_Setup.exe（开发工具VBA组件安装包，自动静默安装）
+﹂WPS2019ProPlus.exe（官方专业版安装包，自动读取oem）
+
+* 如果需要恢复云服务登陆中心的下载后解压
+1.打开安装配置文件（oem.ini）删除以下参数
+├—EnableAccount=false ;不显示账户登陆中心
+├—EnableCloudDocs=false ;不显示WPS云文档
+2.然后运行安装包WPS2019ProSetup.exe安装完！
+
+* 下载地址
+WPS Office 2019 专业增强版 v11.8.2.9067 永久激活完整安装版
+https://malahu-my.sharepoint.com/:f:/g/personal/only72_malahu_tk/ElYXJLKucp1AqeTkl5WPTkUBhAHv5zSMOrJchYI3CIB-MQ?e=3fAqLL
+密码：E3%q
+
+留言邮箱：llllll202020@outlook.com
