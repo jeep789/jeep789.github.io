@@ -437,3 +437,23 @@ https://wws.lanzous.com/b01nvtgxe
 密码:alxw
 
 留言邮箱：llllll202020@outlook.com
+
+Windows 10 Manager绿色特别版
+2021-1-2  分类:电脑软件/系统优化
+
+Windows 10 Manager，Win10优化软件，香港Yamicsoft公司开发的集微软Windows10的所有功能于一身的系统优化软件，包含40多个实用程序来优化，调整，清理，加速和修复Windows 10，可以让系统运行速度更快，消除系统故障，提高稳定性和安全性，个性化Windows 10，满足对系统优化调整的所有期望。
+
+新版特性
+2021.01.01 v3.4.0
+* Perfect some functions.
+* Fix e bugs.
+* Add the Croatian language.
+* Add the Window Finder in Process Manager.
+* Now you can drag and drop the files or folders.som
+
+下载地址
+Windows 10 Manager v3.4.0 去升级免激活绿色版
+https://wws.lanzous.com/b01nw24zi 
+密码:d76e
+
+留言邮箱：llllll202020@outlook.com
