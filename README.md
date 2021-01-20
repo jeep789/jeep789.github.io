@@ -516,3 +516,31 @@ https://wws.lanzous.com/b01nwx0ej
 密码:9gg9
 
 留言邮箱：llllll202020@outlook.com
+
+### Acronis True Image PE单文件
+2021-01-20   分类：备份还原 
+
+Acronis True Image，安克诺斯专业数据备份恢复软件，为你提供专业数据保护。Acronis安克诺斯是全球最佳数据备份恢复软件，能对电脑文件、磁盘、应用程序、操作系统等进行完整数据备份、恢复与迁移的软件，超快备份恢复，轻松系统转移。Acronis True Image 2020，支持数据完整备份、一键恢复数据、磁盘克隆、移动备份、系统迁移、异机还原、文件归档、补丁测试、安全区、勒索病毒防御等功能轻松搞定。
+
+* 新版特性
+2020.12.22 Acronis True Image 2021 Update 3 build 35860
+http://acronis.com/en-us/support/updates/changes.html?p=42226
+ATI2020 开始支持全新备份格式 .tibx；备份恢复速度比以前的版本快了50%
+ATI2020 版本可同時读取*.tibx, *.tib, 如要使用 TibShell 則需使用 12.5 版本
+* 此版特点
+by bhdc, HIGHQ
+* 免激活，此特别版修正了官方原版存在的简体中文和韩语语言的BUG
+﹂即无法正常读取 *.tib,*.tibx 备份档案，生成的备份无法直接恢复问题
+* 单文件和启动器采用NSIS编译，支持判断系统环境，不是PE给出提示
+* 额外的 TIBShell 是干嘛用的？
+TIBShell 在 PE中载入后, 可在档案管理中直接开启备份档案(*.tib, *.tibx)
+方便浏览备份档案内容(可选择解压需要的档案)，最新版 TIBShell v12.5
+可同时读取 *.tib, *.tibx 格式, 旧版无法读取 *.tibx (2020 之后备份格式)
+ATILauncher.exe（注册信息驱动服务依赖脚本，启动软件只需执行它）
+
+* 下载地址
+Acronis True Image 2021 v25.6.1.35860 x64 WinPE 单文件 | TibShell v12.5 | ATI for PE 激活启动依赖脚本(EXE/NSIS脚本/PECMD代码/批处理)
+https://wws.lanzous.com/b01ny4nxe 
+密码:agxo
+
+留言邮箱：llllll202020@outlook.com
