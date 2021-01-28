@@ -605,4 +605,10 @@ mac2 = "0011327B0C" + str.upper(format(mac_new+1,"x"))
 print("当前生成的MAC1为：",mac1)
 print("当前生成的MAC2为：",mac2)
 
+输出应该是这样的:
+当前的变量为： 26
+当前生成的SN为： 1780PDN142601
+当前生成的MAC1为： 0011327B0CD1
+当前生成的MAC2为： 0011327B0CD2 (这个是DS918+的,还可以用200次左右)
+
 留言邮箱:llllll202020@outlook.com
