@@ -544,3 +544,65 @@ https://wws.lanzous.com/b01ny4nxe
 密码:agxo
 
 留言邮箱：llllll202020@outlook.com
+
+### Python写的DS3617XS和DS918+的SN & MAC生成器代码
+2021-1-28  分类:其他
+
+今天我偶然看到这个帖子，http://www.nasyun.com/thread-72330-1-1.html，列举了一些可行的群晖3617和918的mac码
+看了以后有点兴趣，所以随手写了一个这样的sn 和mac码的生产代码，运行后可以得到这样的sn
+
+* 使用方法
+下载安装python3.7,(或者在线编译，这里提供一个:http://www.dooccn.com/python3/)在windows搜索输入idle，打开编辑器，新建一个窗口，然后把下面的代码复制进去，保存，运行，即可得到新的sn & mac
+为了保险起见，随机变量只从0到200，也就是适用于200台机子，感兴趣的朋友可以试试这样能不能洗白刚刚把DS3617XS和DS918+的都写了，918的规律有点奇怪，不太确定试试看吧
+代码如下：
+DS3617xs
+import random
+
+k = random.randint(0,200)               #引入随机变量
+
+print("当前的变量为：",k)
+
+sn0 = int("0015")                       #将基础的sn,不包含设备号和尾号
+sn_new = sn0 + 11 * k
+sn_new_4 = str(sn_new).zfill(4)         #将获得的sn变为4位数
+sn = "1840ODN" + str(sn_new_4) + "00"   #输出16进制的sn
+
+print("当前生成的SN为：",sn)
+
+
+mac0 = int("6242", 16)                  #将基础的mac转换为10进制，不包含设备号和尾号
+mac_new = mac0 + 4 * k
+mac1 = "0011328F" + str.upper(format(mac_new,"x"))     #输出16进制的第一个mac
+mac2 = "0011328F" + str.upper(format(mac_new+1,"x"))
+mac3 = "0011328F" + str.upper(format(mac_new+2,"x"))
+mac4 = "0011328F" + str.upper(format(mac_new+3,"x"))
+
+print("当前生成的MAC1为：",mac1)
+print("当前生成的MAC2为：",mac2)
+print("当前生成的MAC3为：",mac3)
+print("当前生成的MAC4为：",mac4)
+
+DS918+
+import random
+
+k = random.randint(-20,48)               #引入随机变量
+
+print("当前的变量为：",k)
+
+sn0 = int("1140")                       #将基础的sn,不包含设备号和尾号
+sn_new = sn0 + 11 * k
+sn_new_4 = str(sn_new).zfill(4)         #将获得的sn变为4位数
+sn = "1780PDN" + str(sn_new_4) + "01"   #输出16进制的sn
+
+print("当前生成的SN为：",sn)
+
+
+mac0 = int("9D", 16)                  #将基础的mac转换为10进制，不包含设备号和尾号
+mac_new = mac0 + 2 * k
+mac1 = "0011327B0C" + str.upper(format(mac_new,"x"))     #输出16进制的第一个mac
+mac2 = "0011327B0C" + str.upper(format(mac_new+1,"x"))
+
+print("当前生成的MAC1为：",mac1)
+print("当前生成的MAC2为：",mac2)
+
+留言邮箱:llllll202020@outlook.com
