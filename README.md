@@ -1,5 +1,7 @@
 
 ### Wellcome to the blog of Fragile Five Flavor Bottles!
+Telegram群组:https://t.me/joinchat/IhTRpfIFMPo2eiiz
+Telegram频道:https://t.me/joinchat/SwZGFXCtEZJRozmL
 
 ### 交互设计软件 Adobe XD 2021 v35.3 特别版
 
@@ -609,6 +611,27 @@ print("当前生成的MAC2为：",mac2)
 当前的变量为： 26
 当前生成的SN为： 1780PDN142601
 当前生成的MAC1为： 0011327B0CD1
-当前生成的MAC2为： 0011327B0CD2 (这个是DS918+的,还可以用200次左右)
+当前生成的MAC2为： 0011327B0CD2 (这个是DS918+的)
+
+留言邮箱:llllll202020@outlook.com
+
+###火狐浏览器tete009 Mozilla Firefox 
+2021-2-15 分类:软件/浏览器
+
+tete009 Firefox，火狐浏览器知名第三方编译版，火狐浏览器增强版，其优化设计和兼容性非常优秀。它的便携化制作方式完美，加载大容量网页速度特别快，尤其是加载图片速度快，兼容性和启动速度非常不错。
+
+* tete009 Firefox 特点介绍
+
+tete009 Firefox 编译版的启动和加载图片时间是所有火狐浏览器版本里最快的！tete009的版本改进了Firefox内存占用，根据不同的CPU指令集重写了tmemutil.dll，即内存管理的dll文件，使效率大为提高；改善了浏览器的渲染过程，使渲染效率更高；此外Module Binder能缩短Firefox的启动时间。根据不同的CPU指令集制作不同的版本，使Mozilla Firefox能够根据不同的平台而优化，这也是众多第三方编译版共同的特征。
+
+* 下载地址
+
+tete009 Firefox v85.0.2 [2021/02/11]
+https://onemanager.llllll202020.workers.dev/office_E5/Program/FireFox/firefox-85.0.2-2021020813.en-US.win.7z?proxied
+
+Firefox多国语言界面切换简体中文方法：
+选项(Options)->搜索框(Find in Options)->language
+English(United States)->下拉框->Search for more languages
+Select a language to add->下拉框->Chinese(China)->Add->完!
 
 留言邮箱:llllll202020@outlook.com
