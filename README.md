@@ -2,6 +2,7 @@
 ### Wellcome to the blog of Fragile Five Flavor Bottles!
 Telegram群组:https://t.me/joinchat/IhTRpfIFMPo2eiiz
 Telegram频道:https://t.me/joinchat/SwZGFXCtEZJRozmL
+我的资源站：https://onemanager.llllll202020.workers.dev
 
 ### 交互设计软件 Adobe XD 2021 v35.3 特别版
 
@@ -633,5 +634,17 @@ Firefox多国语言界面切换简体中文方法：
 选项(Options)->搜索框(Find in Options)->language
 English(United States)->下拉框->Search for more languages
 Select a language to add->下拉框->Chinese(China)->Add->完!
+
+留言邮箱:llllll202020@outlook.com
+
+### 论GreatFireWall的工作原理 ###
+2021-3-8  
+
+天朝防火长城，官方名为金盾工程，是由政府运作的一个互联网审查监控项目。在其管辖互联网内部建立的多套网络审查系统的总称，包括相关行政审查系统。其英文名称Great Firewall of China(与长城 Great Wall 相谐的效果)，简写为Great Firewall，缩写GFW。随着使用的广泛，GFW已被用于动词，GFWed是指被防火长城所屏蔽。
+
+* 那么GFW是如何工作的呢?
+1.进行无耻的DNS污染，通过更改缓存在服务器中的数据为错误数据，导致某些国外网站不能访问（推荐使用Google DNS 8.8.8.8,CloudFlare DNS 1.0.0.1,或AdGuard DNS IPv4 94.140.14.14 94.140.15.15 IPv6 2a10:50c0::ad1:ff 2a10:50c0::ad2:ff) 如果用自动获取的DNS,解析一些被GFW加入Blacklist的域名,就会出现不正常IP
+2.通过提前向网站服务器发送TCP数据包,告诉服务器对方已经关闭了页面,服务器就会重置链接
+3.经过研究,GFW有一个长期维护的Blacklist,访问列入黑名单的域名或ip,数据包就会被GFW直接丢弃,可以自己查一下traceroute,看看他在哪里中断链接，最后的IP就是GFW服务器中的一个IP
 
 留言邮箱:llllll202020@outlook.com
